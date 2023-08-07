@@ -1,0 +1,266 @@
+[
+	{
+		"id": 1,
+		"name": "肉燥麵",
+		"category": 1,
+		"price": 45,
+		"cost": 25,
+		"description": "經典的台灣麵食，以豬肉燥和麵搭配而成。"
+	},
+	{
+		"id": 2,
+		"name": "麻醬麵",
+		"category": 1,
+		"price": 40,
+		"cost": 20,
+		"description": "以麻醬為基礎調味的麵食，風味濃郁。"
+	},
+	{
+		"id": 3,
+		"name": "餛飩麵",
+		"category": 1,
+		"price": 65,
+		"cost": 30,
+		"description": "搭配餛飩的麵食，口感彈牙。"
+	},
+	{
+		"id": 4,
+		"name": "榨菜肉絲麵",
+		"category": 1,
+		"price": 55,
+		"cost": 25,
+		"description": "加入榨菜和肉絲的麵食，香氣四溢。"
+	},
+	{
+		"id": 5,
+		"name": "肉燥麻醬麵",
+		"category": 1,
+		"price": 55,
+		"cost": 30,
+		"description": "結合肉燥和麻醬的麵食，風味獨特。"
+	},
+	{
+		"id": 6,
+		"name": "陽春麵",
+		"category": 1,
+		"price": 45,
+		"cost": 20,
+		"description": "簡單清淡的台灣麵食，適合喜愛清爽口味的人。"
+	},
+	{
+		"id": 7,
+		"name": "肉燥麵",
+		"category": 2,
+		"price": 45,
+		"cost": 25,
+		"description": "經典的台灣麵食，以豬肉燥和麵搭配而成。"
+	},
+	{
+		"id": 8,
+		"name": "麻醬麵",
+		"category": 2,
+		"price": 40,
+		"cost": 20,
+		"description": "以麻醬為基礎調味的麵食，風味濃郁。"
+	},
+	{
+		"id": 9,
+		"name": "餛飩麵",
+		"category": 2,
+		"price": 65,
+		"cost": 30,
+		"description": "搭配餛飩的麵食，口感彈牙。"
+	},
+	{
+		"id": 10,
+		"name": "榨菜肉絲麵",
+		"category": 2,
+		"price": 55,
+		"cost": 25,
+		"description": "加入榨菜和肉絲的麵食，香氣四溢。"
+	},
+	{
+		"id": 11,
+		"name": "肉燥麻醬麵",
+		"category": 2,
+		"price": 55,
+		"cost": 30,
+		"description": "結合肉燥和麻醬的麵食，風味獨特。"
+	},
+	{
+		"id": 12,
+		"name": "陽春麵",
+		"category": 2,
+		"price": 45,
+		"cost": 20,
+		"description": "簡單清淡的台灣麵食，適合喜愛清爽口味的人。"
+	},
+	{
+		"id": 13,
+		"name": "滷肉飯",
+		"category": 3,
+		"price": 35,
+		"cost": 15,
+		"description": "香嫩滷肉搭配白飯，美味可口。"
+	},
+	{
+		"id": 14,
+		"name": "燒肉飯",
+		"category": 3,
+		"price": 40,
+		"cost": 20,
+		"description": "以燒肉為主角的飯類料理，肉質鮮嫩多汁。"
+	},
+	{
+		"id": 15,
+		"name": "白飯",
+		"category": 3,
+		"price": 10,
+		"cost": 5,
+		"description": "簡單的白飯，是各種料理的基本搭配。"
+	},
+	{
+		"id": 16,
+		"name": "貢丸湯",
+		"category": 4,
+		"price": 30,
+		"cost": 10,
+		"description": "以貢丸為主要材料的湯品，美味可口。"
+	},
+	{
+		"id": 17,
+		"name": "蛋花湯",
+		"category": 4,
+		"price": 20,
+		"cost": 8,
+		"description": "加入蛋花的清湯，營養豐富。"
+	},
+	{
+		"id": 18,
+		"name": "餛飩湯",
+		"category": 4,
+		"price": 30,
+		"cost": 12,
+		"description": "以餛飩為主角的湯品，美味滋補。"
+	},
+	{
+		"id": 19,
+		"name": "豬肝湯",
+		"category": 4,
+		"price": 30,
+		"cost": 15,
+		"description": "以豬肝為主要材料的湯品，富含營養。"
+	},
+	{
+		"id": 20,
+		"name": "豬血湯",
+		"category": 4,
+		"price": 30,
+		"cost": 12,
+		"description": "加入豬血的湯品，口感滑嫩。"
+	},
+	{
+		"id": 21,
+		"name": "青菜湯",
+		"category": 4,
+		"price": 30,
+		"cost": 10,
+		"description": "以青菜為主要材料的湯品，健康清爽。"
+	},
+	{
+		"id": 22,
+		"name": "綜合湯",
+		"category": 4,
+		"price": 30,
+		"cost": 12,
+		"description": "多種食材組合而成的湯品，風味豐富。"
+	},
+	{
+		"id": 23,
+		"name": "大陸妹",
+		"category": 5,
+		"price": 40,
+		"cost": 18,
+		"description": "清炒大陸妹菜心，口感鮮脆。"
+	},
+	{
+		"id": 24,
+		"name": "地瓜葉",
+		"category": 5,
+		"price": 40,
+		"cost": 15,
+		"description": "清炒地瓜葉，營養豐富。"
+	},
+	{
+		"id": 25,
+		"name": "空心菜",
+		"category": 5,
+		"price": 40,
+		"cost": 12,
+		"description": "清炒空心菜，口感爽脆。"
+	},
+	{
+		"id": 26,
+		"name": "燒肉",
+		"category": 6,
+		"price": 30,
+		"cost": 18,
+		"description": "烤製而成的燒肉，香氣誘人。"
+	},
+	{
+		"id": 27,
+		"name": "滷蛋",
+		"category": 6,
+		"price": 30,
+		"cost": 10,
+		"description": "以滷汁浸泡過的蛋，口感鮮美。"
+	},
+	{
+		"id": 28,
+		"name": "豆腐",
+		"category": 6,
+		"price": 30,
+		"cost": 8,
+		"description": "清淡豆腐，搭配各種醬料享用。"
+	},
+	{
+		"id": 29,
+		"name": "涼拌小黃瓜",
+		"category": 6,
+		"price": 30,
+		"cost": 10,
+		"description": "清涼爽口的涼拌小黃瓜，解膩又開胃。"
+	},
+	{
+		"id": 30,
+		"name": "台式泡菜",
+		"category": 6,
+		"price": 30,
+		"cost": 12,
+		"description": "台式風味的泡菜，辣味十足。"
+	},
+	{
+		"id": 31,
+		"name": "紅茶",
+		"category": 7,
+		"price": 20,
+		"cost": 8,
+		"description": "香濃紅茶，口感柔和。"
+	},
+	{
+		"id": 32,
+		"name": "綠茶",
+		"category": 7,
+		"price": 20,
+		"cost": 6,
+		"description": "清新綠茶，具有清香味。"
+	},
+	{
+		"id": 33,
+		"name": "冬瓜茶",
+		"category": 7,
+		"price": 20,
+		"cost": 5,
+		"description": "以冬瓜煮製而成的茶飲，解渴又消暑。"
+	}
+]

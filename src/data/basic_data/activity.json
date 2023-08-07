@@ -1,0 +1,102 @@
+[
+	{
+		"id": 1,
+		"name": "元旦開幕慶",
+		"type": "discount",
+		"discount": 30,
+		"amount": 100,
+		"startDate": "2023-01-01",
+		"endDate": "2023-01-07",
+		"FK_Dish_Id": null
+	},
+	{
+		"id": 2,
+		"name": "情人節愛心",
+		"type": "discount",
+		"discount": 50,
+		"amount": 200,
+		"startDate": "2023-02-14",
+		"endDate": "2023-02-21",
+		"FK_Dish_Id": null
+	},
+	{
+		"id": 3,
+		"name": "歡慶新春",
+		"type": "discount",
+		"discount": 50,
+		"amount": 200,
+		"startDate": "2023-03-01",
+		"endDate": "2023-03-31",
+		"FK_Dish_Id": null
+	},
+	{
+		"id": 4,
+		"name": "歡慶兒童送涼飲",
+		"type": "gift",
+		"discount": 20,
+		"amount": 100,
+		"startDate": "2023-04-01",
+		"endDate": "2023-04-07",
+		"FK_Dish_Id": 33
+	},
+	{
+		"id": 5,
+		"name": "慰勞勞動節",
+		"type": "discount",
+		"discount": 20,
+		"amount": 120,
+		"startDate": "2023-05-01",
+		"endDate": "2023-05-08",
+		"FK_Dish_Id": null
+	},
+	{
+		"id": 6,
+		"name": "夏日降降溫",
+		"type": "gift",
+		"discount": 20,
+		"amount": 200,
+		"startDate": "2023-06-01",
+		"endDate": "2023-06-30",
+		"FK_Dish_Id": 33
+	},
+	{
+		"id": 7,
+		"name": "半年慶活動",
+		"type": "gift",
+		"discount": 65,
+		"amount": 300,
+		"startDate": "2023-06-01",
+		"endDate": "2023-06-30",
+		"FK_Dish_Id": 9
+	},
+	{
+		"id": 8,
+		"name": "歡慶端午",
+		"type": "discount",
+		"discount": 70,
+		"amount": 616,
+		"startDate": "2023-06-19",
+		"endDate": "2023-06-26",
+		"FK_Dish_Id": null
+	},
+	{
+		"id": 9,
+		"name": "母親節特惠",
+		"type": "gift",
+		"discount": 40,
+		"amount": 250,
+		"startDate": "2023-06-23",
+		"endDate": "2023-06-30",
+		"FK_Dish_Id": 8
+	},
+	{
+		"id": 10,
+		"name": "FUN暑假",
+		"type": "discount",
+		"discount": 50,
+		"amount": 500,
+		"startDate": "2023-07-01",
+		"endDate": "2023-07-31",
+		"FK_Dish_Id": null
+	}
+]
